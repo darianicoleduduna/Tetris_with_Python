@@ -66,11 +66,5 @@ coverage.xml
 # Mac
 .DS_Store
 
-# Images and screenshots
-images/*.png
-images/*.jpg
-images/*.jpeg
-images/*.gif
-
 # System files
 Thumbs.db
